@@ -1,0 +1,32 @@
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\bin\Debug\net8.0\appsettings.Development.json
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\bin\Debug\net8.0\appsettings.json
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\bin\Debug\net8.0\Jurnal Modul 10_1302223110.exe
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\bin\Debug\net8.0\Jurnal Modul 10_1302223110.deps.json
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\bin\Debug\net8.0\Jurnal Modul 10_1302223110.runtimeconfig.json
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\bin\Debug\net8.0\Jurnal Modul 10_1302223110.dll
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\bin\Debug\net8.0\Jurnal Modul 10_1302223110.pdb
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\Jurnal Modul 10_1302223110.csproj.AssemblyReference.cache
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\Jurnal Modul 10_1302223110.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\Jurnal Modul 10_1302223110.AssemblyInfoInputs.cache
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\Jurnal Modul 10_1302223110.AssemblyInfo.cs
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\Jurnal Modul 10_1302223110.csproj.CoreCompileInputs.cache
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\Jurnal Modul 10_1302223110.MvcApplicationPartsAssemblyInfo.cs
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\Jurnal Modul 10_1302223110.MvcApplicationPartsAssemblyInfo.cache
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\staticwebassets.build.json
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\staticwebassets.development.json
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\staticwebassets\msbuild.Jurnal Modul 10_1302223110.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\staticwebassets\msbuild.build.Jurnal Modul 10_1302223110.props
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Jurnal Modul 10_1302223110.props
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Jurnal Modul 10_1302223110.props
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\scopedcss\bundle\Jurnal Modul 10_1302223110.styles.css
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\Jurnal Modul 10_1302223110.csproj.CopyComplete
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\Jurnal Modul 10_1302223110.dll
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\refint\Jurnal Modul 10_1302223110.dll
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\Jurnal Modul 10_1302223110.pdb
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\Jurnal Modul 10_1302223110.genruntimeconfig.cache
+D:\Jurnal Minggu 10\Jurnal Modul 10_1302223110\Jurnal Modul 10_1302223110\obj\Debug\net8.0\ref\Jurnal Modul 10_1302223110.dll
